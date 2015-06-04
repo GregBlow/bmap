@@ -1,0 +1,15 @@
+body
+{
+background-color: #00243c;
+}
+@font-face
+{
+	font-family: "blackwell_s";
+	src: url("Blackwell Book.otf");
+}
+p
+{
+	font-family: blackwell_s;
+	color: #FFFFFF;
+
+}
